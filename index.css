@@ -1,0 +1,77 @@
+body,
+html {
+  min-width: 1240px;
+  margin: 0;
+  font: 14px BlinkMacSystemFont, Roboto, Helvetica Neue, Helvetica, PingFangSC-Regular, Hiragino Sans GB, Microsoft YaHei, SimSun, sans-serif;
+  background-color: #fff;
+  -webkit-font-smoothing: antialiased;
+
+}
+
+/* E 顶部导航 */
+.ai-top-nav {
+  width: 100%;
+  height: 60px;
+  background-color: black;
+}
+
+/* S 顶部导航 */
+
+/* E  网页内容 */
+.ai-content-wrap {
+  width: 1180px;
+  margin: 0 auto;
+  height: 300px;
+}
+
+/* E  网页右侧内容 */
+/* #ai-text {
+  display: block;
+  padding-block-start: 1em;
+  padding-block-end: 1em;
+  padding-inline-start: 0px;
+  padding-inline-end: 0px;
+} */
+
+.ai-content-r {
+  width: 851px;
+  padding: 56px 0 80px;
+  /* background-color: chartreuse; */
+}
+
+.ai-news-tiele {
+  font-size: 34px;
+  color: #000;
+}
+
+.ai-news-info-container {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #999;
+}
+
+.ai-newscdetail-data {
+  margin-right: 25px;
+}
+
+.ai-newscdetail-content {
+  font-size: 16px;
+  color: #000;
+  line-height: 30px;
+  min-height: 280px;
+  padding: 50px 0 60px;
+}
+
+/* S  网页右侧内容 */
+/* E  网页左侧内容 */
+.ai-content-l {
+  width: 275px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #333;
+  background-color: blue;
+}
+
+/* S  网页左侧内容 */
+/* S  网页内容 */
